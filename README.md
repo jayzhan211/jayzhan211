@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi, I'm Jay Zhan 👋
 
-I am interesting in AI / Distributed System / Quantum Computing
+- 🌱 I’m currently learning *Blockchain*
+- 😄 I'm interesting in *AI* / *Distributed System* / *Quantum Computing*, but I know a little of them :(
+- 🏫 I'm currently an undergraduate student studying computer science @ NCU. I'm expected to graduate in Jun 2021.
+
+**Learn, Build, Focus on Impact.**
 
 <!--
 **jayzhan211/jayzhan211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
