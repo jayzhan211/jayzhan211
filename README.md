@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am interesting in AI / Distributed System / Quantum Computing
+
 <!--
 **jayzhan211/jayzhan211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
