@@ -1,7 +1,7 @@
 ### Hi, I'm Jay Zhan 👋
 
 - 🌱 I’m currently learning *Blockchain*
-- 😄 I'm interesting in *AI* / *Distributed System* / *Quantum Computing*, but I know a little of them :(
+- 😄 I'm interesting in *Distributed System* / *Decentralized Identity*, but I know a little of them :(
 - 🏫 I'm currently an master student @ NYCU. I'm expected to graduate in 2023.
 
 **Learn, Build, Focus on Impact.**
