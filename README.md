@@ -1,8 +1,8 @@
 ### Hi, I'm Jay Zhan 👋
 
-- 🌱 I’m currently learning *Blockchain*
-- 😄 I'm interesting in *Distributed System* / *Decentralized Identity*
-- 🏫 I'm currently an master student @ NYCU. I'm expected to graduate in 2023. Welling to work in Taiwan, Singapore, Japan or Others
+- 🔭 I’m currently finding an open-source project to work on before my onboarding.
+- 🌱 I’m currently learning *Distributed System* and *AI*.
+- 🏫 I'm currently a master's student @ NYCU. I'm expected to graduate in 2023. Welling to work in Taiwan, Singapore, Japan, or Others
 
 **Learn, Build, Focus on Impact.**
 
