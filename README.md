@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [arrow-datafusion!](https://github.com/apache/arrow-datafusion)!
 - 🌱 I’m currently learning *Distributed System* and *AI*.
-- 🏫 I'm currently working in TikTok @ SG. Welling to work in Taiwan, Singapore, Japan, or Others
+- 🏫 I'm currently working in TikTok @ SG. Willing to work in US, UK, SG, JP, TW.
 
 **Learn, Build, Focus on Impact.**
 
