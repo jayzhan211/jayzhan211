@@ -1,7 +1,7 @@
 ### Hi, I'm Jay Zhan 👋
 
 - 🔭 I’m currently working on [arrow-datafusion!](https://github.com/apache/arrow-datafusion)
-- 🌱 I’m currently interesting in [Mojo](https://github.com/modularml/mojo)
+- 🌱 I’m currently interesting in [Mojo](https://github.com/modularml/mojo) / [Arrow](https://arrow.apache.org/) [Datafusion](https://github.com/apache/arrow-datafusion) / [Ray](https://github.com/ray-project/ray) [KubeRay](https://github.com/ray-project/kuberay)
 - 🏫 I'm currently working in TikTok @ SG. Willing to work in US, UK, SG, JP, TW.
 
 **Learn, Build, Focus on Impact.**
