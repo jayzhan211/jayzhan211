@@ -10,7 +10,7 @@
   *  [Polars](https://github.com/pola-rs/polars)
  
 * [Ray](https://github.com/ray-project/ray) / [Kuberay](https://github.com/ray-project/kuberay)
-* [Cilium](https://github.com/cilium/cilium)
+* [Cilium](https://github.com/cilium/cilium) / [ebpf](https://ebpf.io/)
 * [Bevy](https://github.com/bevyengine/bevy)
 
 **Learn, Build, Focus on Impact.**
