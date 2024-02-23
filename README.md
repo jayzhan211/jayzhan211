@@ -8,7 +8,7 @@
 * [Arrow](https://arrow.apache.org/)
   *  [Datafusion](https://github.com/apache/arrow-datafusion)
   *  [Polars](https://github.com/pola-rs/polars)
- 
+* [Wasmtime](https://github.com/bytecodealliance/wasmtime)
 * [Ray](https://github.com/ray-project/ray) / [Kuberay](https://github.com/ray-project/kuberay)
 * [Cilium](https://github.com/cilium/cilium) / [ebpf](https://ebpf.io/)
 * [Bevy](https://github.com/bevyengine/bevy)
