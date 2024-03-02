@@ -5,13 +5,8 @@
 
 ### Project that I'm paying attention to
 * [Mojo](https://github.com/modularml/mojo)
-* [Arrow](https://arrow.apache.org/)
-  *  [Datafusion](https://github.com/apache/arrow-datafusion)
-  *  [Polars](https://github.com/pola-rs/polars)
+* [Datafusion](https://github.com/apache/arrow-datafusion)
 * [Wasmtime](https://github.com/bytecodealliance/wasmtime)
-* [Ray](https://github.com/ray-project/ray) / [Kuberay](https://github.com/ray-project/kuberay)
-* [Cilium](https://github.com/cilium/cilium) / [ebpf](https://ebpf.io/)
-* [Bevy](https://github.com/bevyengine/bevy)
 
 **Learn, Build, Focus on Impact.**
 
