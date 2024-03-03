@@ -4,7 +4,7 @@
 - 👨‍💻 I'm currently working in TikTok @ SG. Willing to work in the US, UK, SG, JP, TW.
 
 ### Project that I'm paying attention to
-* [Mojo](https://github.com/modularml/mojo)
+* [Mojo](https://github.com/modularml/mojo) / MAX / Pytorch
 * [Datafusion](https://github.com/apache/arrow-datafusion)
 * [Wasmtime](https://github.com/bytecodealliance/wasmtime)
 
