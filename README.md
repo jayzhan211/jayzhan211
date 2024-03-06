@@ -4,9 +4,10 @@
 - 👨‍💻 I'm currently working in TikTok @ SG. Willing to work in the US, UK, SG, JP, TW.
 
 ### Project that I'm paying attention to
-* [Mojo](https://github.com/modularml/mojo) / MAX / Pytorch
+* [Mojo](https://github.com/modularml/mojo) / [Pytorch](https://github.com/pytorch/pytorch)
 * [Datafusion](https://github.com/apache/arrow-datafusion)
 * [Wasmtime](https://github.com/bytecodealliance/wasmtime)
+* [Ray](https://github.com/ray-project/ray)
 
 **Learn, Build, Focus on Impact.**
 
