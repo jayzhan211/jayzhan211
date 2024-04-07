@@ -2,9 +2,10 @@
 
 - 🚀 I’m currently working on [arrow-datafusion!](https://github.com/apache/arrow-datafusion)
 - 👨‍💻 I'm currently working in TikTok @ SG. Willing to work in the US, UK, SG, JP, TW.
+- 💡 Interested in database, compiler and large-scale distributed system.
 
 ### Project that I'm paying attention to
-* [Mojo](https://github.com/modularml/mojo) / [Pytorch](https://github.com/pytorch/pytorch) / OpenXLA
+* [Mojo](https://github.com/modularml/mojo) / [Pytorch](https://github.com/pytorch/pytorch) / [OpenXLA](https://github.com/openxla)
 * [Datafusion](https://github.com/apache/arrow-datafusion)
 * [Wasmtime](https://github.com/bytecodealliance/wasmtime)
 
