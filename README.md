@@ -8,6 +8,7 @@
 * [Mojo](https://github.com/modularml/mojo) / [Pytorch](https://github.com/pytorch/pytorch) / [OpenXLA](https://github.com/openxla)
 * [Datafusion](https://github.com/apache/arrow-datafusion)
 * [Wasmtime](https://github.com/bytecodealliance/wasmtime)
+* [Ray](https://github.com/ray-project/ray)
 
 **Learn, Build, Focus on Impact.**
 
