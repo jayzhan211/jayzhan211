@@ -1,6 +1,6 @@
 ### Hi, I'm Jay Zhan 👋
 
-- 🚀 I’m currently working on [arrow-datafusion!](https://github.com/apache/arrow-datafusion)
+- 🚀 I’m currently working on [arrow-datafusion!](https://github.com/apache/arrow-datafusion). Apache Datafusion Commiter.
 - 👨‍💻 I'm currently working in TikTok @ SG. Willing to work in the US, UK, SG, JP, TW.
 - 💡 Interested in database, compiler and large-scale distributed system.
 
