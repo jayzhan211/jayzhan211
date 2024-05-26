@@ -5,8 +5,10 @@
 - 💡 Interested in database, compiler and large-scale distributed system.
 
 ### Project that I'm paying attention to
-* [Mojo](https://github.com/modularml/mojo) / [Pytorch](https://github.com/pytorch/pytorch) / [OpenXLA](https://github.com/openxla)
+* [Mojo](https://github.com/modularml/mojo)
 * [Datafusion](https://github.com/apache/datafusion)
+* [Pytorch](https://github.com/pytorch/pytorch) / [Executorch](https://github.com/pytorch/executorch)
+* [OpenXLA](https://github.com/openxla)
 * [Wasmtime](https://github.com/bytecodealliance/wasmtime)
 * [Ray](https://github.com/ray-project/ray)
 
