@@ -8,7 +8,7 @@
 * [Mojo](https://github.com/modularml/mojo)
 * [Datafusion](https://github.com/apache/datafusion)
 * [Pytorch](https://github.com/pytorch/pytorch) / [Executorch](https://github.com/pytorch/executorch)
-* [OpenXLA](https://github.com/openxla)
+* [OpenXLA](https://github.com/openxla) / [IREE](https://github.com/iree-org/iree)
 * [Wasmtime](https://github.com/bytecodealliance/wasmtime)
 * [Ray](https://github.com/ray-project/ray)
 
