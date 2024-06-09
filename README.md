@@ -6,9 +6,10 @@
 
 ### Project that I'm paying attention to
 * [Mojo](https://github.com/modularml/mojo)
-* [Datafusion](https://github.com/apache/datafusion) / [Lance](https://github.com/lancedb/lance)
-* [Pytorch](https://github.com/pytorch/pytorch) / [Executorch](https://github.com/pytorch/executorch)
-* [OpenXLA](https://github.com/openxla) / [IREE](https://github.com/iree-org/iree)
+* [Datafusion](https://github.com/apache/datafusion)
+* [Lance](https://github.com/lancedb/lance)
+* [IREE](https://github.com/iree-org/iree)
+* [Executorch](https://github.com/pytorch/executorch)
 
 **Learn, Build, Focus on Impact.**
 
