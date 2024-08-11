@@ -7,6 +7,7 @@
 ### Project that I'm paying attention to
 * [Mojo](https://github.com/modularml/mojo)
 * [Datafusion](https://github.com/apache/datafusion) / [Lance](https://github.com/lancedb/lance)
+* [Ray](https://github.com/ray-project/ray)
 * [IREE](https://github.com/iree-org/iree)
 * [Executorch](https://github.com/pytorch/executorch)
 
