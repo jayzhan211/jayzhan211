@@ -11,6 +11,8 @@
 * [Ray](https://github.com/ray-project/ray)
 * [IREE](https://github.com/iree-org/iree)
 * [Executorch](https://github.com/pytorch/executorch)
+* Wasmtime
+* WebGPU
 
 **Learn, Build, Focus on Impact.**
 
