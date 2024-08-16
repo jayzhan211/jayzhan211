@@ -3,6 +3,7 @@
 - 🚀 I’m currently working on [Datafusion](https://github.com/apache/datafusion) as the role Apache Datafusion Committer.
 - 👨‍💻 I'm currently working in TikTok @ SG. Willing to work in the US, UK, SG, JP, TW.
 - 💡 Interested in database, compiler and large-scale distributed system.
+- 🦀 Rustacean
 
 ### Project that I'm paying attention to
 * [Mojo](https://github.com/modularml/mojo)
