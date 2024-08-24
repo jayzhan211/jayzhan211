@@ -8,10 +8,11 @@
 ### Project that I'm paying attention to
 * [Mojo](https://github.com/modularml/mojo)
 * [Datafusion](https://github.com/apache/datafusion) / [Lance](https://github.com/lancedb/lance)
+* [triton-lang](https://github.com/triton-lang/triton)
 * [Ray](https://github.com/ray-project/ray)
 * [IREE](https://github.com/iree-org/iree)
 * [Executorch](https://github.com/pytorch/executorch)
-* Wasmtime
+* WebAssembly
 * WebGPU
 
 **Learn, Build, Focus on Impact.**
