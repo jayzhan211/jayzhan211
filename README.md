@@ -2,16 +2,21 @@
 
 - 🚀 I’m currently working on [Datafusion](https://github.com/apache/datafusion) as the role Apache Datafusion PMC (Project Management Committee).
 - 👨‍💻 I'm currently working in TikTok @ SG. Willing to work in the US, UK, SG, JP, TW.
-- 💡 Interested in database, compiler and large-scale distributed system.
+- 💡 Interested in database, data infrastructure, AI compiler and system and large-scale distributed system.
 - 🦀 Rustacean
 
 ### Project that I'm paying attention to
-* [Mojo](https://github.com/modularml/mojo)
-* [Datafusion](https://github.com/apache/datafusion) / [Lance](https://github.com/lancedb/lance)
-* [triton-lang](https://github.com/triton-lang/triton)
-* [Ray](https://github.com/ray-project/ray)
-* [IREE](https://github.com/iree-org/iree)
-* [Executorch](https://github.com/pytorch/executorch)
+* Data
+  - [Datafusion](https://github.com/apache/datafusion)
+  - [Ray](https://github.com/ray-project/ray)
+  - [Lance](https://github.com/lancedb/lance)
+  - [delta-lake](https://github.com/delta-io/delta-rs) / [iceberg](https://github.com/apache/iceberg-rust)
+* AI/ML
+  - [Mojo](https://github.com/modularml/mojo)
+  - [sglang](https://github.com/sgl-project/sglang)
+  - [triton-lang](https://github.com/triton-lang/triton)
+  - [IREE](https://github.com/iree-org/iree)
+  - [Executorch](https://github.com/pytorch/executorch)
 * WebAssembly
 * WebGPU
 
