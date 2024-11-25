@@ -1,7 +1,7 @@
 ### Hi, I'm Jay Zhan 👋
 
 - 🚀 I’m currently working on [Datafusion](https://github.com/apache/datafusion) as the role Apache Datafusion PMC (Project Management Committee).
-- 👨‍💻 I'm currently working in TikTok @ SG. Willing to work in the US, UK, SG, JP, TW.
+- 👨‍💻 I'm currently working in [Synnada](https://www.synnada.ai/) as part of the Data team. Willing to work in the US, UK, SG, JP, TW.
 - 💡 Interested in database, data infrastructure, AI compiler and system and large-scale distributed system.
 - 🦀 Rustacean
 
