@@ -1,6 +1,6 @@
 ### Hi, I'm Jay Zhan 👋
 
-- 🚀 I’m currently working on [Datafusion](https://github.com/apache/datafusion) as the role Apache Datafusion PMC (Project Management Committee).
+- 🚀 [Apache Datafusion](https://github.com/apache/datafusion) PMC (Project Management Committee), not active now.
 - 💡 Interested in database, data infrastructure, AI compiler and system and large-scale distributed system.
 - 🦀 Rustacean
 
