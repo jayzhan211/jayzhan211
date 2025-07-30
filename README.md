@@ -3,21 +3,13 @@
 - 🚀 [Apache Datafusion](https://github.com/apache/datafusion) PMC (Project Management Committee), not active now.
 - 💡 Interested in database, data infrastructure, AI compiler and system and large-scale distributed system.
 - 🦀 Rustacean
+- Focus on Lakehouse
 
 ### Project that I'm paying attention to
-* Data
+  - [iceberg-rust](https://github.com/apache/iceberg-rust)
+  - [Lance](https://github.com/lancedb/lance)
   - [Datafusion](https://github.com/apache/datafusion)
   - [Ray](https://github.com/ray-project/ray)
-  - [Lance](https://github.com/lancedb/lance)
-  - [delta-lake](https://github.com/delta-io/delta-rs) / [iceberg](https://github.com/apache/iceberg-rust)
-* AI/ML
-  - [Mojo](https://github.com/modularml/mojo)
-  - [sglang](https://github.com/sgl-project/sglang)
-  - [triton-lang](https://github.com/triton-lang/triton)
-  - [IREE](https://github.com/iree-org/iree)
-  - [Executorch](https://github.com/pytorch/executorch)
-* WebAssembly
-* WebGPU
 
 **Learn, Build, Focus on Impact.**
 
